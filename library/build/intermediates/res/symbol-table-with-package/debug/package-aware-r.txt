@@ -1,0 +1,17 @@
+com.andexert.library
+attr rv_alpha
+attr rv_centered
+attr rv_color
+attr rv_framerate
+attr rv_rippleDuration
+attr rv_ripplePadding
+attr rv_type
+attr rv_zoom
+attr rv_zoomDuration
+attr rv_zoomScale
+color rippelColor
+id doubleRipple
+id rectangle
+id simpleRipple
+style AppTheme
+styleable RippleView rv_alpha rv_centered rv_color rv_framerate rv_rippleDuration rv_ripplePadding rv_type rv_zoom rv_zoomDuration rv_zoomScale
